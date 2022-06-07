@@ -1,0 +1,328 @@
+{
+  "language": "en",
+  "langText": "english",
+  "NoData": "No Data",
+  "aboutus": 
+  {
+    "abus":"سەبارەت بە ئێمە",
+    "weh":"ئێمە برسیێتی لادەدەین",
+    "whatwedo":"چی دەکەین",
+    "ourgoal": "ئامانجەکانمان",
+    "ourgoaldesc":"ئامانجی سەرەکی ئێمە لە سیستەمەدا ئەوەیە کە وەک پردێکی پەیوەندی نێوان بازرگانی و ڕێکخراوی خێرخوازی کار بکەین و ڕێگە بە بەکارهێنەران بدەن خۆراک ببەخشن و  یارمەتی ئەو کەسانە بدەن کە پێویستیانە .",
+    "ourmission":"ئەرکەکەمان",
+    "ourmissiondesc":"ئەرکی ئێمە ئەوەیە کە یارمەتی کەسانی پێویست بدەن، هەوڵ دەدەین لە ڕێگەی ڕێکخراوە خێرخوازییەکان خزمەتی ئەو کەسانە بکەین کە پێویستیان بە پێداویستی ی خۆراکی یە",
+    "ourvalue":"بەهاکەمان",
+    "ourvaluedesc":"گەورەترین سوود بەخشینە بە هاوکاری کردنی خەڵکی بێنەوایە لە ئێستادا زۆر کەس هەن کە پێویستیان بە یارمەتی هەیە لە هەموو بوارەکاندا بە تایبەتی شتە گرنگ و جۆراوجۆرەکان بە یارمەتیدان بۆ ژیان بە جۆرێکی ناوازە واتە بە دابین کردنی گرنگترین شت کە خواردنە بۆیان"
+  },
+
+  "sponser":
+  {
+    "ourpartner":"هاوبەشەکانمان",
+    "ourpartnerdesc":"کار لەگەڵ هاوکارەکانمان دەکەین و تۆڕێکی بەهێز هاوپەیمانیمان پێکهێناوە"
+  },
+
+  "teammembers":
+  {
+    "meettheteam":"تیمەکەمان بناسە",
+    "sima":"سیما جەزا",
+    "softwareeng":"ئەندازیاری بەرنامەسازی",
+    "sana":"سەنا جەزا",
+    "mudhafar":"مزەفەر دلێر",
+    "rebaz":"ڕێباز فەرید",
+    "network":"تۆڕ و ئاسایش"
+  },
+
+  "Donations":
+  {
+    "addd": "بەخشینەکەت زیاد بکە",
+    "loading": "ێەپلۆد کردن",
+    "addnew":"بەخشینی نوێ زیاد بکە",
+    "title":"ناونیشان",
+    "quantity":"چەندیەتی",
+    "type":"جۆری خۆراک چییە؟",
+    "crafted": "دەستکرد",
+    "used": "بەکارهاتووە",
+    "donation": "بەخشین",
+    "itemcate": "هەڵبژاردنی بابەتەکان ئەم ئایتمە هی خوارەوەیە",
+    "phone": "ژمارەی تەلەفۆن",
+    "noImg": "هیچ وێنەیەک دیارینەکراوە",  
+    "upload": "زیادکردنی وێنە +",
+    "new": "زیادکردنی ئایتمی نوێ",
+    "how": "ئایتمە کەی بەردەست دەبێت؟",
+    "country": "وڵات",
+    "city": "شار",
+    "add": "زیادکردن",
+    "cancel": "هەڵوەشاندنەوه",
+    "submit": "ناردن",
+    "itemtype": "جۆری ئایتم دیاریبکە",
+    "aform": "تۆ بە سەرکەوتوویی فۆرمت پڕکردەوە",
+    "desc": "باسکردن",
+    "price": "نرخ",
+    "callTheOwner": "پەیوەندی بکە بە خاوەنەکە",
+    "requdon":"بەخشینە داواکراوەکان",
+    "donated": "Doanted Donations"
+  },
+
+  "contactus": 
+  {
+    "title": "پەیوەندیمان پێوە بکە",
+    "leavemessage":"تکایە نامەیەکمان بۆ بەجێ بێڵن",
+    "name": "ناو",
+    "email": "contact@KFD.com",
+    "subject": "بابەت",
+    "send": "ناردن",
+    "emailad":"ناونیشانی ئیمەیڵ",
+    "required": "ئەم خانەیە پێویستە",
+    "message": "نامەکەت",
+    "callowner":"Call the Owner",
+    "phone":"+964 750 113 0495",
+    "location":"عێراق، سلێمانی، زێرین",
+    "quality":"چەندێتی:",
+    "date":"20/02/2021",
+    "expire":"کالا لە 20 ڕۆژدا بەسەر دەچێت"
+  },
+
+  "filter":
+  {
+    "category": "بابەت",
+    "filteredby":"پاڵێوکراوە لەلایەن:",
+    "status":"دۆخ",
+    "reqdon":"بەخشینە داواکراوەکان",
+    "donation":"بەخشینەکان",
+    "quantity":"چەندێتی",
+    "apply":"جێبەجێ کردن",
+    "min":"کەمترین",
+    "max":"زۆرترین",
+    "under 25":"کەمتر لە ٢٥",
+    "one":"25-50",
+    "two":"50-100",
+    "three":"100-200",
+    "four":"200-400",
+    "over 400":"زیاتر لە ٤٠٠",
+    "location":"شوێن",
+    "erbil":"هەولێر",
+    "zakho":"زاخۆ",
+    "silemani":"سلێمانی",
+    "shaqlawa":"شەقڵاوە",
+    "duhok":"دهۆک",
+    "halbja":"هەڵەبجە",
+    "kalar":"کەلار",
+    "darband":"دەربەندیخان",
+    "ranya":"ڕانیە",
+    "said sadiq":"سەیدسادق",
+    "sharazwr":"شارەزوور",
+    "cham":"چەمچەماڵ",
+    "under":"Under 25",
+    "over":"Over 400",
+    "said":"Said Sadiq"
+  },
+
+  "footer": 
+  {
+    "menu":"مێنیو",
+    "home":"سەرەتا",
+    "profile":"پرۆفایل",
+    "contact":"پەیوەندی",
+    "about":"سەبارەت",
+    "main_types":"جۆری سەرەکی",
+    "donation":"بەخشین",
+    "requdon":"بەخشینە داواکراوەکان",
+    "contactus":"پەیوەندیمان پێوە بکە",
+    "follow":"فۆلۆمان بکەن",
+    "phone": "+234081-1236-4568",
+    "email": "Contact@KFD.com",
+    "copy":"© Copyright 2021 - KFD",
+    "type": "Main Types",
+    "crafted": "Crafted"
+  },
+
+  "navbar": 
+  {
+    "home": "سەرەتا",
+    "contact": "پەیوەندیمان پێوە بکە",
+    "about": "سەبارەت",
+    "logIn": "چوونەژوورەوە",
+    "signUp": "خۆ تۆمارکردن",
+    "logOut": "دەرچوون",
+    "donation": "بەخشین",
+    "profile": "پرۆفایل",
+    "search":"گەڕان",
+    "settings": "ڕێکبەندەکان",
+    "Account":"Account"
+  },
+
+  "addbutton":
+  {
+    "adddonation":"بەخشینەکەت زیاد بکە",
+    "search":"گەڕان"
+  },
+
+  "login": 
+  {
+    "log-in": " چوونەژوورەوە",
+    "google": "چوونەژوورەوە",
+      "KFD":"KFD Application"
+  },
+
+  "notFound": 
+  {
+    "oops": " ئۆپس! پەڕ نەدۆزرایەوە...",
+    "explain": "ئەو لاپەڕەی کە بەدوایدا دەگەڕێیت بوونی نیە، لەوانەیە گواسترابێتەوە یان سڕابێتەوە."
+    
+  },
+
+  "setting": {
+    "setting": "ڕێکبەندەکان",
+    "name": "نەو",
+    "photo": "وێنە",
+    "phone": "ژمارەی تەلەفۆن",
+    "city": "شار",
+    "save": "بپارێزە",
+    "close": "دابخە"
+  },
+
+  "adddonation":
+  {
+    "addnewdon":"زیادکردنی بەخشینێکی نوێ",
+    "title":"سەردێڕ",
+    "type":"جۆری خۆراک چییە؟",
+    "quantity":"چەندێتی",
+    "avalible":"خواردنەکە چەند ڕۆژ بەردەست دەبێت؟",
+    "desc":"باسکردن",
+    "add":"زیادکردن",
+    "cancel":"هەڵوەشاندنەوه"
+  },
+
+
+  "donationsection":{
+    "milk":"شیر",
+    "supermarket":"سوپەرمارکێت",
+    "description":"باسکردن",
+    "descmilk":"ئەمە ئەو شوێنەیە کە باسی ئەم بەرهەمانەی کە بەردەستن بۆ بەخشینییان دایبنێین یان داوای بەخشینیان لێبکرێت ، ئەمەش بیرۆکەیەکی کورت دەداتێ کە بەرهەمەکەی چییە و چی بۆ سوودی خۆی بەکاردێت یان کۆمپانیای پیشەسازی"
+  },
+  
+  "header":{
+    "desc":"پلاتفۆرمێکی سەرهێڵییە کە وەک پردێک کار دەکات بۆ بەستنەوەی چێشتخانە و کۆمپانیاکانی دابینکەری خۆراک و سوپەرمارکێتەکان بۆ ڕێکخراو ."
+  },
+  
+    "profile":{
+      "desc1":"سەرەکیترین کێشەکان بۆ چارەسەرکردنیان و بەدەستهێنانی ئاسایشی خۆراکو برسێتی یە بۆ باشترکردنی خۆراکی خواردن",
+    "bestsupermarket":"باشترین سوپەر مارکێت",
+    "phone":"964 750 113 0495",
+    "location":"عێراق، سلێمانی",
+    "mydonations":"بەخشینەکانم",
+    "suplname":"ناوی کالا",
+    "quntity":"چەندێتی",
+    "time":"--هەفتە-ڕۆژ-کاتژمێر-خولەک",
+    "delete":"سڕینەوە",
+    "slogan": "بەیەکەوە جیهان بکەن بە شوێنێکی باشتر بۆ هەمووان",
+    "myItems": "ئایتمەکانم",
+    "oops": " ئۆپس! هیچشتێکت بۆ بەخشین دانەناوە",
+    "explain": "ێایتمێک زیادبکە و دەستبکە بە بەخشین",
+    "deleting": "ئایا دڵنیایت?",
+    "deletingNote": "کاتێک سڕایەوە، ناتوانیت ئەم ئایتمە بگەڕێنیتەوە!",
+    "deleted": " فایلسسڕایەوە!",
+    "notDeleted": " فایل نەسڕاوەتەوە"
+    },
+  
+    "heading": 
+      {
+        "descrption": "The Food Donation WebApp is an online platform that works as a bridge to connect restaurants, food-supplier companies and Supermarkets to organization."
+      },
+  
+    "doncard" : 
+    {
+        "DC" : "Donation Card"
+    },
+      "loginSlogan": " Log in to start donating and / or sell what you don’t need",
+      "loginAddItem": " You are not Authorized! Please, Log in. ",
+      
+      "back": "Go Back",
+      "toast": 
+      {
+        "successAdd": " is successfully added",
+        "warningDelete": " Deleted"
+      },
+    
+      "cform": {
+        "title": "پەیوەندیمان پێوە بکە",
+    "leaveusamessage":"Please Leave Us a Message",
+    "name": "ناو",
+    "email": "contact@KFD.com",
+    "phone": "+234081-1236-4568",
+    "subject": "بابەت",
+    "send": "ناردن",
+    "emailad":"ناونیشانی ئیمەیڵ",
+    "required": "ئەم خانەیە پێویستە",
+    "message": "نامەکەت",
+        "cont": "Contact Us",
+        "leve": "Leave us a message",
+        "disc": "Disclaimer",
+        "desc": "We do not make any warranties about the authenticity or quality of products in this website. Any transaction you take upon the products on this website is strictly at your own risks, and we will not be liable for any loss and damages in connection with the use of our website.",
+        "mesg": "Your Message has been send"
+      },
+      "additem": 
+      {
+        "noImg": "No Image is selected",
+        "new": "Add New Item",
+        "upload": "Add Image +",
+        "title": "Title",
+        "phone": "Phone Number",
+        "how": "How long  the Food will be available?",
+        "country": "Country",
+        "city": "City",
+        "add": "Add",
+        "cancel": "Cancel",
+        "itemtype": "Choose one of option Below",
+        "itemcate": "Select the type of Food this Donation belong to below",
+        "aform": "You have successfully filled the form",
+        "cat": [
+          { "url": "FreshFood", "value": "Fresh Food" },
+          { "url": "PackagedFood", "value": "Packaged Food" },
+          { "url": "Other", "value": "Other" }
+        ]
+      },
+      "home": {
+        "slogan": "Find or Sell whatever you want and wherever you are!",
+        "addItem": "Add Item",
+        "donatedItems": "Donated Items",
+        "usedItems": "Used Items",
+        "craftedItems": "Crafted Items"
+      },
+  
+      "addItem": "Add Item",
+    
+      "about": {
+        "start": "We strive to provide a place to our users where they can buy and sell their used items, crafted or donated items.",
+        "miss": "Our Mission",
+        "mission": "Dilmun mission is to connect people in need with place to sell their items and build bridges of trust between them.",
+        "go": "Our Goals",
+        "goals": "we make sure our users find what they are looking for and as easy as possible, instead of searching for items on social media, here you can easily find what are you looking for with one search.",
+        "val": "Our Values",
+        "values": "We believe that everyone deserves to live in a clean environment. We encourage donation, developing a recycling community and supporting local business through providing a platform to sell their items.",
+        "haval": "Haval Rezan Majnun",
+        "ismail": "Ismail Khalil",
+        "sima": "Sima Jazaa Mohammed",
+        "kodo": "Kodo Yousif",
+        "meet": "Meet Team",
+        "about": "About Us"
+      },
+    
+      "searchform": {
+        "all": "All",
+        "free": "Free",
+        "paid": "Paid"
+      },
+      "fliter": {
+        "one": "Under 25$",
+        "two": "25$ - 50$",
+        "three": "50$ - 100$",
+        "four": "100$ - 200$",
+        "five": "200$ - 400$",
+        "six": "Over 400$",
+        "apply": "Apply",
+        "max": "Max",
+        "min": "Min"
+      }
+  
+}

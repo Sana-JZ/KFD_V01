@@ -1,0 +1,16 @@
+@import '../../style/styleBoo';
+
+.backgroundH
+{
+    background-color:$primary;
+    border-bottom:$secondary solid 2px !important;
+  
+}
+
+.text
+{
+    text-align: left;
+    font-family: Mplus 1p;
+    display:flex;
+    align-items:center;
+}

@@ -1,0 +1,53 @@
+@import '../../style/styleBoo';
+
+.main-footer 
+{
+  position: relative;
+  color: $secondary !important;
+  background-color: $primary;
+  padding-top: 1em;
+  position: relative;
+  width: auto;
+}
+.text 
+{
+  text-align: center;
+  color: $secondary !important;
+  margin: auto;
+}
+.logo 
+{
+  align-items: center;
+  text-align: center;
+}
+.col 
+{
+  padding: 10px;
+  column-width: auto;
+  column-gap: 40px;
+  color: $secondary !important;;
+}
+.cont 
+{
+  background-color: $primary !important;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.iconf 
+{
+    color: $secondary !important;
+}
+.lin
+{
+  color: $secondary !important;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.underline
+{
+  text-decoration: underline $warn;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 2px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,37 @@
+@import '../../style/styleBoo';
+
+.navbar 
+{
+  background-color:$secondary;
+  font-family: $mainFontFamily;
+}
+
+.lins 
+{
+  color:$primary !important;
+  margin: 0 0.5rem;
+  &:hover 
+  {
+    font-weight: bold;
+  }
+}
+.SBTN 
+{
+  background-color: $primary !important;
+  border: $primary !important;
+}
+
+.B11, .B12, .B14, .B15, .B16,.B17, .B13 {
+  background-color: $primary !important;
+  border: $primary !important;
+ 
+}
+
+
+
+
+
+
+
+
+

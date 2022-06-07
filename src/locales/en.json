@@ -1,0 +1,312 @@
+{
+  "language": "ar",
+  "langText": "arabic",
+  "NoData": "No Data",
+  "aboutus": 
+  {
+    "abus":"About Us",
+    "weh":"We Elimate Hunger",
+    "whatwedo":"What We Do",
+    "ourgoal": "Our Goals",
+    "ourgoaldesc":"Our main goal of the system is to act as a bridge of communication between businesses and charity  organization, and allow users to donate food and they can reach out to each other and help out the people who are in need.",
+    "ourmission":"Our Mission",
+    "ourmissiondesc":"Our mission is to help out people in need, we are trying to serve those who are in need with necessary food supplies, through charity organizations.",
+    "ourvalue":"Our value",
+    "ourvaluedesc":"The greatest benefit of a donation is of helping the needy people around. Nowadays there are lots of people who need help in life in all aspects especially various essential things, by helping them to live in a unique way which is means by providing them the most important thing which is food."
+  },
+
+  "sponser":
+  {
+    "ourpartner":"Our Partners",
+    "ourpartnerdesc":"Working with our partner. A strong network. We have formed alliances"
+  },
+
+  "teammembers":
+  {
+    "meettheteam":"Meet The Team",
+    "sima":"Sima Jazza",
+    "softwareeng":"Software Engineer",
+    "sana":"Sana Jazaa",
+    "mudhafar":"Mudhafar Dler",
+    "rebaz":"Rebaz Farid",
+    "network":"Network and Security"
+  },
+
+  "Donations":
+  {
+    "donated": "Doanted Donations",
+    "addd": "Add Donation",
+    "loading": "Uploading",
+    "addnew":"Add New Donation",
+    "title":"Title",
+    "quantity":"Qunatity",
+    "type":"What is the food type?",
+    "crafted": "Crafted",
+    "used": "Used",
+    "donation": "Donation",
+    "itemcate": "Select the categories this item belong to below",
+    "phone": "Phone Number",
+    "noImg": "No Image is selected",  
+    "upload": "Add Image +",
+    "new": "Add New Item",
+    "how": "How long  the item will be available?",
+    "country": "Country",
+    "city": "City",
+    "add": "Add",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "itemtype": "Select the Item Type",
+    "aform": "You have successfully filled the form",
+    "desc": "Inculde a brief explantion and availability of the Supply",
+    "price": "Price",
+    "callTheOwner": "Call The Owner",
+    "requdon":"Requested Donations"
+  },
+
+  "contactus": 
+  {
+    "title": "Contact Us",
+    "leavemessage":"Please Leave Us a Message",
+    "name": "Name",
+    "email": "contact@KFD.com",
+    "subject": "Subject",
+    "send": "Send",
+    "emailad":"Email Address",
+    "required": "This field required",
+    "message": "Your Message",
+    "callowner":"Call the Owner",
+    "phone":"+964 750 113 0495",
+    "location":"Iraq, Sulaymaniyah, Zerin",
+    "quality":"Quantity: 36",
+    "date":"20/02/2021",
+    "expire":"Supply Expires in 20 Days"
+  },
+
+  "filter":
+  {
+    "category": "Category",
+    "filteredby":"Filtered by:",
+    "status":"Status",
+    "reqdon":"Requested Donations",
+    "donation":"Donations",
+    "quantity":"Quantity",
+    "apply":"Apply",
+    "min":"Min",
+    "max":"Max",
+    "under":"Under 25",
+    "one":"25-50",
+    "two":"50-100",
+    "three":"100-200",
+    "four":"200-400",
+    "over":"Over 400",
+    "location":"Location",
+    "erbil":"Erbil",
+    "zakho":"Zakho",
+    "silemani":"Silemani",
+    "shaqlawa":"Shaqlawa",
+    "duhok":"Duhok",
+    "halbja":"Halabja",
+    "kalar":"Kalar",
+    "darband":"Darbandikhan",
+    "ranya":"Ranya",
+    "said":"Said Sadiq",
+    "sharazwr":"Sharazwr",
+    "cham":"Chamchamal"
+  },
+
+  "footer": 
+  {
+    "menu":"Menu",
+    "home":"Home",
+    "contact":"Contact Us",
+    "about":"About",
+    "main_types":"Main Types",
+    "donation":"Donation",
+    "requdon":"Requested Donations",
+    "contactus":"Contact Us",
+    "follow":"Follow Us",
+    "phone": "+234081-1236-4568",
+    "email": "Contact@KFD.com",
+    "copy":"© Copyright 2021 - KFD",
+    "profile": "Profile",
+    "type": "Main Types",
+    "crafted": "Crafted"
+  },
+
+  "navbar": 
+  {
+    "Account":"Account",
+    "home": "Home",
+    "contact": "Contact Us",
+    "about": "About",
+    "logIn": "Log In",
+    "signUp": "Sign Up",
+    "logOut": "Logout",
+    "donation": "Donation",
+    "profile": "Profile",
+    "search":"Search",
+    "settings": "Settings"
+  },
+
+  "profile":
+  {
+    "desc1":"The main issues to solve are achieving food security, and hunger improving the food nutrition.",
+    "bestsupermarket":"Best Super Market",
+    "phone":"964 750 113 0495",
+    "location":"Iraq, Sulaymaniyah",
+    "mydonations":"My Donations",
+    "suplname":"Supply Name",
+    "quntity":"Quantity",
+    "time":"--Weeks-Days-Hours-Min",
+    "delete":"Delete",
+    "slogan": "Together Making The Wolrd A Better Place For Everyone",
+    "myItems": "My Items",
+    "oops": " OOPS! You have not put anything to Donate!",
+    "explain": "Add your item now and start Giving!",
+
+    "deleting": "Are you sure?",
+    "deletingNote": "Once deleted, you will not be able to recover this item!",
+    "deleted": " file has been deleted!",
+    "notDeleted": " File not deleted"
+  },
+
+  "addbutton":
+  {
+    "adddonation":"Add Your Donation",
+    "search":"Search"
+  },
+
+  "login": 
+  {
+    "log-in": " Log in",
+    "google": "Sign in",
+    "KFD":"KFD Application"
+  },
+
+  "notFound": {
+    "oops": " OOPS! Page Not Found...",
+    "explain": "The Page You are Looking For does not Exist, It might have been Moved or deleted."
+  },
+
+  "setting": {
+    "setting": "Settings",
+    "name": "Name",
+    "photo": "Photo",
+    "phone": "Phone Number",
+    "city": "City",
+    "save": "Save",
+    "close": "Close"
+  },
+
+
+
+  "adddonation":
+  {
+    "avalible":"How many days the food will be available?",
+    "desc":"Description",
+    "add":"Add",
+    "cancel":"Cancel"
+  },
+ 
+
+  "donationsection":
+  {
+    "milk":"Milk",
+    "supermarket":"Supermarket",
+    "description":"Description",
+    "descmilk":"This is where we put the description of the donation products that are available to be donated or are requested to be given, this gives a breif idea as to what is the product and what is used for its benifits or the manfacturing company"
+  },
+
+  "header":
+  {
+    "desc":"The Food Donation WebApp is an online platform that works as a bridge to connect restaurants, food-supplier companies and  Supermarkets to organization."
+  },
+
+  "heading": 
+    {
+      "descrption": "The Food Donation WebApp is an online platform that works as a bridge to connect restaurants, food-supplier companies and Supermarkets to organization."
+    },
+
+  "doncard" : 
+  {
+      "DC" : "Donation Card"
+  },
+    "loginSlogan": " Log in to start donating and / or sell what you don’t need",
+    "loginAddItem": " You are not Authorized! Please, Log in. ",
+    
+    "back": "Go Back",
+    "toast": 
+    {
+      "successAdd": " is successfully added",
+      "warningDelete": " Deleted"
+    },
+  
+    "cform": {
+
+      "cont": "Contact Us",
+      "name": "Name",
+      "email": "Email Address",
+      "message": "Your Message",
+      "leve": "Leave us a message",
+      "send": "Send",
+      "disc": "Disclaimer",
+      "desc": "We do not make any warranties about the authenticity or quality of donations in this website.",
+      "mesg": "Your Message has been send"
+    },
+    "additem": 
+    {
+      "noImg": "No Image is selected",
+      "new": "Add New Item",
+      "upload": "Add Image +",
+      "title": "Title",
+      "phone": "Phone Number",
+      "how": "How long  the Food will be available?",
+      "country": "Country",
+      "city": "City",
+      "add": "Add",
+      "cancel": "Cancel",
+      "itemtype": "Choose one of option Below",
+      "itemcate": "Select the type of Food this Donation belong to below",
+      "aform": "You have successfully filled the form",
+      "cat": [
+        { "url": "FreshFood", "value": "Fresh Food" },
+        { "url": "PackagedFood", "value": "Packaged Food" },
+        { "url": "Other", "value": "Other" }
+      ]
+    },
+    "home": {
+      "slogan": "Find or Sell whatever you want and wherever you are!",
+      "addItem": "Add Item",
+      "donatedItems": "Donated Items",
+      "usedItems": "Used Items",
+      "craftedItems": "Crafted Items"
+    },
+
+    "addItem": "Add Item",
+  
+    "about": {
+      "miss": "Our Mission",
+      "go": "Our Goals",
+      "val": "Our Values",
+      "sima": "Sima Jazaa Mohammed",
+      "meet": "Meet Team",
+      "about": "About Us"
+    },
+  
+    "searchform": {
+      "all": "All",
+      "free": "RequestedDonation",
+      "paid": "Donoations"
+    },
+    "fliter": {
+      "one": "Under 25",
+      "two": "25 - 50",
+      "three": "50 - 100",
+      "four": "100 - 200",
+      "five": "200 - 400",
+      "six": "Over 400",
+      "apply": "Apply",
+      "max": "Max",
+      "min": "Min"
+    }
+}
