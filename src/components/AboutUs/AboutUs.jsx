@@ -30,7 +30,7 @@ export default function AboutUs() {
                         </Row>
 
                         <Row >
-                            <Col><h3 className= "space"> {t('aboutus.ourgoal')} </h3></Col><Col><p className = "space"> {t('aboutus.ourgoaldesc')} </p></Col>
+                            <Col><h3 className= "space"> {t('aboutus.ourgoal')} jjj</h3></Col><Col><p className = "space"> {t('aboutus.ourgoaldesc')} </p></Col>
                         </Row>
 
                         <Row>
